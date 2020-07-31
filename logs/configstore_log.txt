@@ -1,0 +1,6 @@
+
+
+[2020-07-31 17:56:18] Failed to read store 'install' from 'C:\onsetserver\config\config.vdf.tmp'
+[2020-07-31 17:56:19] Flushed store 'install' to 'C:\onsetserver\config\config.vdf'
+[2020-07-31 17:56:20] Flushed store 'install' to 'C:\onsetserver\config\config.vdf'
+[2020-07-31 17:56:21] Flushed store 'install' to 'C:\onsetserver\config\config.vdf'

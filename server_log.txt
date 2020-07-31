@@ -1,0 +1,33 @@
+
+[2020-07-31 17:56:18] [info] Windows Server is starting
+[2020-07-31 17:56:18] [info] Detected 6 logical processors
+[2020-07-31 17:56:18] [info] Loaded 21 weapons from config
+[2020-07-31 17:56:18] [info] Loading plugin "mariadb"
+[2020-07-31 17:56:19] [info] MariaDB: v1.1 successfully loaded.
+[2020-07-31 17:56:19] [info] Loading plugin "ini-plugin"
+[2020-07-31 17:56:19] [info] ini-plugin: v1.0 successfully loaded.
+[2020-07-31 17:56:19] [info] Starting package "packagemanager"
+[2020-07-31 17:56:19] [info] Starting package "zeus"
+[2020-07-31 17:56:19] [script] Zeus v1.1:0 by DasDarki started!
+[2020-07-31 17:56:19] [script] --- !!!WARNING!!! ZEUS IS IN DEV MODE !!!WARNING!!! ---
+[2020-07-31 17:56:19] [script] As long as the Dev Mode is enabled, everyone has Admin Permission!
+[2020-07-31 17:56:19] [script] You can disable the Dev Mode in the Config: packages/zeus/server/io/config.lua
+[2020-07-31 17:56:19] [script] --- !!!WARNING!!! ZEUS IS IN DEV MODE !!!WARNING!!! ---
+[2020-07-31 17:56:19] [info] Starting package "default"
+[2020-07-31 17:56:19] [warning] Script file "PackageManager.lua" in package "default" not found
+[2020-07-31 17:56:19] [script] Door Count: 659
+[2020-07-31 17:56:19] [info] Starting package "freeroam"
+[2020-07-31 17:56:19] [script] hello
+[2020-07-31 17:56:19] [info] Starting package "sandbox"
+[2020-07-31 17:56:19] [script] Server: Attempting to load world.
+[2020-07-31 17:56:19] [script] Server: No world.json found in root server directory, one will be made next time the server saves.
+[2020-07-31 17:56:19] [script] Server: No schematics.json found in root server directory, one will be made next time a schematic is saved.
+[2020-07-31 17:56:19] [info] Package load done, clients will download 113 files with a total of 2004 KB
+[2020-07-31 17:56:19] [info] Max players set to 100
+[2020-07-31 17:56:19] [info] VoIP systems activated at 24000hz
+[2020-07-31 17:56:19] [info] Listening on 127.0.0.1
+[2020-07-31 17:56:19] [info] Open port channels:
+[2020-07-31 17:56:19] [info] 	UDP 7777 (game)
+[2020-07-31 17:56:19] [info] 	UDP 7776 (query)
+[2020-07-31 17:56:19] [info] 	TCP 7775 (file)
+[2020-07-31 17:56:19] [info] Server loaded. Entering simulation...
