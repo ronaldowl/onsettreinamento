@@ -1,6 +1,14 @@
 
 function OnPackageStart()
-	print("hello")
+
+	
+	print("Carregado com Sucesso!")
 end
 AddEvent("OnPackageStart", OnPackageStart)
+
+
+
+
+
+
 

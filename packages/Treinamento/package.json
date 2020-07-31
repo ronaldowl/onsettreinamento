@@ -1,0 +1,12 @@
+{
+	"author": "Onset Brasil - Aulas",
+	"version": "1.0",
+	"server_scripts": [
+		"treinamento_server.lua",
+		"comando_S.lua",
+		"loadAccount.lua"
+	],
+	"client_scripts": [
+		"treinamento_client.lua"
+	]
+}

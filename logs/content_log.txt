@@ -1,3 +1,33 @@
 
 
 [2020-07-31 17:56:18] Loaded 1 apps from install folder "C:\onsetserver\steamapps\appmanifest_*.acf".
+
+
+[2020-07-31 19:24:40] Loaded 1 apps from install folder "D:\GIT\onsettreinamento\steamapps\appmanifest_*.acf".
+
+
+[2020-07-31 19:38:07] Loaded 1 apps from install folder "D:\GIT\onsettreinamento\steamapps\appmanifest_*.acf".
+
+
+[2020-07-31 19:43:35] Loaded 1 apps from install folder "D:\GIT\onsettreinamento\steamapps\appmanifest_*.acf".
+
+
+[2020-07-31 19:45:59] Loaded 1 apps from install folder "D:\GIT\onsettreinamento\steamapps\appmanifest_*.acf".
+
+
+[2020-07-31 19:49:12] Loaded 1 apps from install folder "D:\GIT\onsettreinamento\steamapps\appmanifest_*.acf".
+
+
+[2020-07-31 19:50:07] Loaded 1 apps from install folder "D:\GIT\onsettreinamento\steamapps\appmanifest_*.acf".
+
+
+[2020-07-31 19:52:15] Loaded 1 apps from install folder "D:\GIT\onsettreinamento\steamapps\appmanifest_*.acf".
+
+
+[2020-07-31 19:57:40] Loaded 1 apps from install folder "D:\GIT\onsettreinamento\steamapps\appmanifest_*.acf".
+
+
+[2020-07-31 20:05:16] Loaded 1 apps from install folder "D:\GIT\onsettreinamento\steamapps\appmanifest_*.acf".
+
+
+[2020-07-31 20:07:07] Loaded 1 apps from install folder "D:\GIT\onsettreinamento\steamapps\appmanifest_*.acf".

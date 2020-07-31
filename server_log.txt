@@ -31,3 +31,272 @@
 [2020-07-31 17:56:19] [info] 	UDP 7776 (query)
 [2020-07-31 17:56:19] [info] 	TCP 7775 (file)
 [2020-07-31 17:56:19] [info] Server loaded. Entering simulation...
+
+[2020-07-31 19:24:39] [info] Windows Server is starting
+[2020-07-31 19:24:39] [info] Detected 6 logical processors
+[2020-07-31 19:24:41] [info] Loaded 21 weapons from config
+[2020-07-31 19:24:41] [info] Loading plugin "mariadb"
+[2020-07-31 19:24:41] [info] MariaDB: v1.1 successfully loaded.
+[2020-07-31 19:24:41] [info] Loading plugin "ini-plugin"
+[2020-07-31 19:24:41] [info] ini-plugin: v1.0 successfully loaded.
+[2020-07-31 19:24:41] [info] Server password set from the config file
+[2020-07-31 19:24:41] [warning] Config: "packages" no packages were defined, this server won't do much
+[2020-07-31 19:24:41] [warning] No packages loaded, this server won't do much
+[2020-07-31 19:24:41] [info] Max players set to 100
+[2020-07-31 19:24:41] [info] VoIP systems activated at 24000hz
+[2020-07-31 19:24:41] [info] Listening on 127.0.0.1
+[2020-07-31 19:24:41] [info] Open port channels:
+[2020-07-31 19:24:41] [info] 	UDP 7777 (game)
+[2020-07-31 19:24:41] [info] 	UDP 7776 (query)
+[2020-07-31 19:24:41] [info] 	TCP 7775 (file)
+[2020-07-31 19:24:41] [info] Server loaded. Entering simulation...
+[2020-07-31 19:25:21] [info] Client requesting connection 127.0.0.1:55629
+[2020-07-31 19:25:21] [info] Player (ID 1) joining the game (127.0.0.1:55629)
+[2020-07-31 19:25:53] [info] Player (ID 1) disconnected (127.0.0.1:55629)
+
+[2020-07-31 19:37:55] [info] Windows Server is starting
+[2020-07-31 19:37:55] [info] Detected 6 logical processors
+[2020-07-31 19:37:55] [info] Loaded 21 weapons from config
+[2020-07-31 19:37:55] [info] Loading plugin "mariadb"
+[2020-07-31 19:37:55] [info] MariaDB: v1.1 successfully loaded.
+[2020-07-31 19:37:55] [info] Loading plugin "ini-plugin"
+[2020-07-31 19:37:55] [info] ini-plugin: v1.0 successfully loaded.
+[2020-07-31 19:37:55] [error] Game port already in use or invalid IP set
+[2020-07-31 19:37:55] [error] Server failed loading
+[2020-07-31 19:38:00] [info] Detected CTRL+C signal
+[2020-07-31 19:38:00] [info] Shutting down...
+
+[2020-07-31 19:38:07] [info] Windows Server is starting
+[2020-07-31 19:38:07] [info] Detected 6 logical processors
+[2020-07-31 19:38:07] [info] Loaded 21 weapons from config
+[2020-07-31 19:38:07] [info] Loading plugin "mariadb"
+[2020-07-31 19:38:07] [info] MariaDB: v1.1 successfully loaded.
+[2020-07-31 19:38:07] [info] Loading plugin "ini-plugin"
+[2020-07-31 19:38:07] [info] ini-plugin: v1.0 successfully loaded.
+[2020-07-31 19:38:07] [info] Server password set from the config file
+[2020-07-31 19:38:07] [info] Starting package "packagemanager"
+[2020-07-31 19:38:07] [info] Starting package "Treinamento"
+[2020-07-31 19:38:07] [script] Hello Wold
+[2020-07-31 19:38:07] [info] Package load done, clients will download 1 files with a total of 0 KB
+[2020-07-31 19:38:07] [info] Max players set to 100
+[2020-07-31 19:38:07] [info] VoIP systems activated at 24000hz
+[2020-07-31 19:38:07] [info] Listening on 127.0.0.1
+[2020-07-31 19:38:07] [info] Open port channels:
+[2020-07-31 19:38:07] [info] 	UDP 7777 (game)
+[2020-07-31 19:38:07] [info] 	UDP 7776 (query)
+[2020-07-31 19:38:07] [info] 	TCP 7775 (file)
+[2020-07-31 19:38:07] [info] Server loaded. Entering simulation...
+[2020-07-31 19:38:27] [info] Client requesting connection 127.0.0.1:63181
+[2020-07-31 19:38:27] [info] Player (ID 1) joining the game (127.0.0.1:63181)
+[2020-07-31 19:38:36] [info] Player (ID 1) disconnected (127.0.0.1:63181)
+[2020-07-31 19:43:27] [info] Detected CTRL+C signal
+[2020-07-31 19:43:27] [info] Shutting down...
+
+[2020-07-31 19:43:35] [info] Windows Server is starting
+[2020-07-31 19:43:35] [info] Detected 6 logical processors
+[2020-07-31 19:43:35] [info] Loaded 21 weapons from config
+[2020-07-31 19:43:35] [info] Loading plugin "mariadb"
+[2020-07-31 19:43:35] [info] MariaDB: v1.1 successfully loaded.
+[2020-07-31 19:43:35] [info] Loading plugin "ini-plugin"
+[2020-07-31 19:43:35] [info] ini-plugin: v1.0 successfully loaded.
+[2020-07-31 19:43:35] [info] Server password set from the config file
+[2020-07-31 19:43:35] [info] Starting package "packagemanager"
+[2020-07-31 19:43:35] [info] Starting package "Treinamento"
+[2020-07-31 19:43:35] [script] Carregado com Sucesso!
+[2020-07-31 19:43:35] [info] Package load done, clients will download 1 files with a total of 0 KB
+[2020-07-31 19:43:35] [info] Max players set to 100
+[2020-07-31 19:43:35] [info] VoIP systems activated at 24000hz
+[2020-07-31 19:43:35] [info] Listening on 127.0.0.1
+[2020-07-31 19:43:35] [info] Open port channels:
+[2020-07-31 19:43:35] [info] 	UDP 7777 (game)
+[2020-07-31 19:43:35] [info] 	UDP 7776 (query)
+[2020-07-31 19:43:35] [info] 	TCP 7775 (file)
+[2020-07-31 19:43:35] [info] Server loaded. Entering simulation...
+[2020-07-31 19:43:46] [info] Client requesting connection 127.0.0.1:55446
+[2020-07-31 19:43:46] [info] Player (ID 1) joining the game (127.0.0.1:55446)
+[2020-07-31 19:45:52] [info] Detected CTRL+C signal
+[2020-07-31 19:45:52] [info] Shutting down...
+[2020-07-31 19:45:52] [info] MariaDB: Unloading plugin...
+[2020-07-31 19:45:52] [info] MariaDB: Plugin unloaded.
+
+[2020-07-31 19:45:59] [info] Windows Server is starting
+[2020-07-31 19:45:59] [info] Detected 6 logical processors
+[2020-07-31 19:45:59] [info] Loaded 21 weapons from config
+[2020-07-31 19:45:59] [info] Loading plugin "mariadb"
+[2020-07-31 19:45:59] [info] MariaDB: v1.1 successfully loaded.
+[2020-07-31 19:45:59] [info] Loading plugin "ini-plugin"
+[2020-07-31 19:45:59] [info] ini-plugin: v1.0 successfully loaded.
+[2020-07-31 19:45:59] [info] Server password set from the config file
+[2020-07-31 19:45:59] [info] Starting package "packagemanager"
+[2020-07-31 19:45:59] [info] Starting package "Treinamento"
+[2020-07-31 19:45:59] [script] Carregado com Sucesso!
+[2020-07-31 19:45:59] [info] Package load done, clients will download 1 files with a total of 0 KB
+[2020-07-31 19:45:59] [info] Max players set to 100
+[2020-07-31 19:45:59] [info] VoIP systems activated at 24000hz
+[2020-07-31 19:45:59] [info] Listening on 127.0.0.1
+[2020-07-31 19:45:59] [info] Open port channels:
+[2020-07-31 19:45:59] [info] 	UDP 7777 (game)
+[2020-07-31 19:45:59] [info] 	UDP 7776 (query)
+[2020-07-31 19:45:59] [info] 	TCP 7775 (file)
+[2020-07-31 19:45:59] [info] Server loaded. Entering simulation...
+[2020-07-31 19:46:20] [info] Client requesting connection 127.0.0.1:55446
+[2020-07-31 19:46:20] [info] Player (ID 1) joining the game (127.0.0.1:55446)
+[2020-07-31 19:48:59] [info] Player (ID 1) disconnected (127.0.0.1:55446)
+[2020-07-31 19:49:02] [info] Detected CTRL+C signal
+[2020-07-31 19:49:02] [info] Shutting down...
+
+[2020-07-31 19:49:12] [info] Windows Server is starting
+[2020-07-31 19:49:12] [info] Detected 6 logical processors
+[2020-07-31 19:49:12] [info] Loaded 21 weapons from config
+[2020-07-31 19:49:12] [info] Loading plugin "mariadb"
+[2020-07-31 19:49:12] [info] MariaDB: v1.1 successfully loaded.
+[2020-07-31 19:49:12] [info] Loading plugin "ini-plugin"
+[2020-07-31 19:49:12] [info] ini-plugin: v1.0 successfully loaded.
+[2020-07-31 19:49:12] [info] Server password set from the config file
+[2020-07-31 19:49:12] [info] Starting package "packagemanager"
+[2020-07-31 19:49:12] [info] Starting package "Treinamento"
+[2020-07-31 19:49:12] [script] Carregado com Sucesso!
+[2020-07-31 19:49:12] [info] Package load done, clients will download 1 files with a total of 0 KB
+[2020-07-31 19:49:12] [info] Max players set to 100
+[2020-07-31 19:49:12] [info] VoIP systems activated at 24000hz
+[2020-07-31 19:49:12] [info] Listening on 127.0.0.1
+[2020-07-31 19:49:12] [info] Open port channels:
+[2020-07-31 19:49:12] [info] 	UDP 7777 (game)
+[2020-07-31 19:49:12] [info] 	UDP 7776 (query)
+[2020-07-31 19:49:12] [info] 	TCP 7775 (file)
+[2020-07-31 19:49:12] [info] Server loaded. Entering simulation...
+[2020-07-31 19:49:26] [info] Client requesting connection 127.0.0.1:61479
+[2020-07-31 19:49:26] [info] Player (ID 1) joining the game (127.0.0.1:61479)
+[2020-07-31 19:50:01] [info] Detected CTRL+C signal
+[2020-07-31 19:50:01] [info] Shutting down...
+[2020-07-31 19:50:02] [info] MariaDB: Unloading plugin...
+[2020-07-31 19:50:02] [info] MariaDB: Plugin unloaded.
+
+[2020-07-31 19:50:07] [info] Windows Server is starting
+[2020-07-31 19:50:07] [info] Detected 6 logical processors
+[2020-07-31 19:50:07] [info] Loaded 21 weapons from config
+[2020-07-31 19:50:07] [info] Loading plugin "mariadb"
+[2020-07-31 19:50:07] [info] MariaDB: v1.1 successfully loaded.
+[2020-07-31 19:50:07] [info] Loading plugin "ini-plugin"
+[2020-07-31 19:50:07] [info] ini-plugin: v1.0 successfully loaded.
+[2020-07-31 19:50:08] [info] Server password set from the config file
+[2020-07-31 19:50:08] [info] Starting package "packagemanager"
+[2020-07-31 19:50:08] [info] Starting package "Treinamento"
+[2020-07-31 19:50:08] [script] Carregado com Sucesso!
+[2020-07-31 19:50:08] [info] Package load done, clients will download 1 files with a total of 0 KB
+[2020-07-31 19:50:08] [info] Max players set to 100
+[2020-07-31 19:50:08] [info] VoIP systems activated at 24000hz
+[2020-07-31 19:50:08] [info] Listening on 127.0.0.1
+[2020-07-31 19:50:08] [info] Open port channels:
+[2020-07-31 19:50:08] [info] 	UDP 7777 (game)
+[2020-07-31 19:50:08] [info] 	UDP 7776 (query)
+[2020-07-31 19:50:08] [info] 	TCP 7775 (file)
+[2020-07-31 19:50:08] [info] Server loaded. Entering simulation...
+[2020-07-31 19:50:53] [info] Client requesting connection 127.0.0.1:61479
+[2020-07-31 19:50:53] [info] Player (ID 1) joining the game (127.0.0.1:61479)
+[2020-07-31 19:52:03] [info] Detected CTRL+C signal
+[2020-07-31 19:52:03] [info] Shutting down...
+[2020-07-31 19:52:03] [info] MariaDB: Unloading plugin...
+[2020-07-31 19:52:03] [info] MariaDB: Plugin unloaded.
+
+[2020-07-31 19:52:15] [info] Windows Server is starting
+[2020-07-31 19:52:15] [info] Detected 6 logical processors
+[2020-07-31 19:52:15] [info] Loaded 21 weapons from config
+[2020-07-31 19:52:15] [info] Loading plugin "mariadb"
+[2020-07-31 19:52:15] [info] MariaDB: v1.1 successfully loaded.
+[2020-07-31 19:52:15] [info] Loading plugin "ini-plugin"
+[2020-07-31 19:52:15] [info] ini-plugin: v1.0 successfully loaded.
+[2020-07-31 19:52:15] [info] Server password set from the config file
+[2020-07-31 19:52:15] [info] Starting package "packagemanager"
+[2020-07-31 19:52:15] [info] Starting package "Treinamento"
+[2020-07-31 19:52:15] [script] Carregado com Sucesso!
+[2020-07-31 19:52:15] [info] Package load done, clients will download 1 files with a total of 0 KB
+[2020-07-31 19:52:15] [info] Max players set to 100
+[2020-07-31 19:52:15] [info] VoIP systems activated at 24000hz
+[2020-07-31 19:52:15] [info] Listening on 127.0.0.1
+[2020-07-31 19:52:15] [info] Open port channels:
+[2020-07-31 19:52:15] [info] 	UDP 7777 (game)
+[2020-07-31 19:52:15] [info] 	UDP 7776 (query)
+[2020-07-31 19:52:15] [info] 	TCP 7775 (file)
+[2020-07-31 19:52:15] [info] Server loaded. Entering simulation...
+[2020-07-31 19:52:30] [info] Client requesting connection 127.0.0.1:61479
+[2020-07-31 19:52:30] [info] Player (ID 1) joining the game (127.0.0.1:61479)
+[2020-07-31 19:57:20] [info] Detected CTRL+C signal
+[2020-07-31 19:57:20] [info] Shutting down...
+
+[2020-07-31 19:57:40] [info] Windows Server is starting
+[2020-07-31 19:57:40] [info] Detected 6 logical processors
+[2020-07-31 19:57:40] [info] Loaded 21 weapons from config
+[2020-07-31 19:57:40] [info] Loading plugin "mariadb"
+[2020-07-31 19:57:40] [info] MariaDB: v1.1 successfully loaded.
+[2020-07-31 19:57:40] [info] Loading plugin "ini-plugin"
+[2020-07-31 19:57:40] [info] ini-plugin: v1.0 successfully loaded.
+[2020-07-31 19:57:40] [info] Server password set from the config file
+[2020-07-31 19:57:40] [info] Starting package "packagemanager"
+[2020-07-31 19:57:40] [info] Starting package "Treinamento"
+[2020-07-31 19:57:40] [script] Carregado com Sucesso!
+[2020-07-31 19:57:40] [info] Package load done, clients will download 1 files with a total of 0 KB
+[2020-07-31 19:57:40] [info] Max players set to 100
+[2020-07-31 19:57:40] [info] VoIP systems activated at 24000hz
+[2020-07-31 19:57:40] [info] Listening on 127.0.0.1
+[2020-07-31 19:57:40] [info] Open port channels:
+[2020-07-31 19:57:40] [info] 	UDP 7777 (game)
+[2020-07-31 19:57:40] [info] 	UDP 7776 (query)
+[2020-07-31 19:57:40] [info] 	TCP 7775 (file)
+[2020-07-31 19:57:40] [info] Server loaded. Entering simulation...
+[2020-07-31 19:58:11] [info] Client requesting connection 127.0.0.1:61479
+[2020-07-31 19:58:11] [info] Player (ID 1) joining the game (127.0.0.1:61479)
+[2020-07-31 20:04:45] [info] Detected CTRL+C signal
+[2020-07-31 20:04:45] [info] Shutting down...
+
+[2020-07-31 20:05:16] [info] Windows Server is starting
+[2020-07-31 20:05:16] [info] Detected 6 logical processors
+[2020-07-31 20:05:16] [info] Loaded 21 weapons from config
+[2020-07-31 20:05:16] [info] Loading plugin "mariadb"
+[2020-07-31 20:05:16] [info] MariaDB: v1.1 successfully loaded.
+[2020-07-31 20:05:16] [info] Loading plugin "ini-plugin"
+[2020-07-31 20:05:16] [info] ini-plugin: v1.0 successfully loaded.
+[2020-07-31 20:05:16] [info] Server password set from the config file
+[2020-07-31 20:05:16] [info] Starting package "packagemanager"
+[2020-07-31 20:05:16] [info] Starting package "Treinamento"
+[2020-07-31 20:05:16] [script] Carregado com Sucesso!
+[2020-07-31 20:05:16] [info] Package load done, clients will download 1 files with a total of 0 KB
+[2020-07-31 20:05:16] [info] Max players set to 100
+[2020-07-31 20:05:16] [info] VoIP systems activated at 24000hz
+[2020-07-31 20:05:16] [info] Listening on 127.0.0.1
+[2020-07-31 20:05:16] [info] Open port channels:
+[2020-07-31 20:05:16] [info] 	UDP 7777 (game)
+[2020-07-31 20:05:16] [info] 	UDP 7776 (query)
+[2020-07-31 20:05:16] [info] 	TCP 7775 (file)
+[2020-07-31 20:05:16] [info] Server loaded. Entering simulation...
+[2020-07-31 20:05:33] [info] Client requesting connection 127.0.0.1:61479
+[2020-07-31 20:05:34] [info] Player (ID 1) joining the game (127.0.0.1:61479)
+[2020-07-31 20:05:34] [error] [string "Treinamento/loadAccount.lua"]:8: attempt to call a nil value (global 'SetPlayerClothingPreset')
+[2020-07-31 20:05:34] [script] [string "Treinamento/loadAccount.lua"]:8: attempt to call a nil value (global 'SetPlayerClothingPreset')
+[2020-07-31 20:07:00] [info] Detected CTRL+C signal
+[2020-07-31 20:07:00] [info] Shutting down...
+
+[2020-07-31 20:07:07] [info] Windows Server is starting
+[2020-07-31 20:07:07] [info] Detected 6 logical processors
+[2020-07-31 20:07:07] [info] Loaded 21 weapons from config
+[2020-07-31 20:07:07] [info] Loading plugin "mariadb"
+[2020-07-31 20:07:07] [info] MariaDB: v1.1 successfully loaded.
+[2020-07-31 20:07:07] [info] Loading plugin "ini-plugin"
+[2020-07-31 20:07:07] [info] ini-plugin: v1.0 successfully loaded.
+[2020-07-31 20:07:07] [info] Server password set from the config file
+[2020-07-31 20:07:07] [info] Starting package "packagemanager"
+[2020-07-31 20:07:07] [info] Starting package "Treinamento"
+[2020-07-31 20:07:07] [script] Carregado com Sucesso!
+[2020-07-31 20:07:07] [info] Package load done, clients will download 1 files with a total of 0 KB
+[2020-07-31 20:07:07] [info] Max players set to 100
+[2020-07-31 20:07:07] [info] VoIP systems activated at 24000hz
+[2020-07-31 20:07:07] [info] Listening on 127.0.0.1
+[2020-07-31 20:07:07] [info] Open port channels:
+[2020-07-31 20:07:07] [info] 	UDP 7777 (game)
+[2020-07-31 20:07:07] [info] 	UDP 7776 (query)
+[2020-07-31 20:07:07] [info] 	TCP 7775 (file)
+[2020-07-31 20:07:07] [info] Server loaded. Entering simulation...
+[2020-07-31 20:07:21] [info] Client requesting connection 127.0.0.1:61479
+[2020-07-31 20:07:22] [info] Player (ID 1) joining the game (127.0.0.1:61479)
+[2020-07-31 20:09:20] [info] Detected CTRL+C signal
+[2020-07-31 20:09:20] [info] Shutting down...

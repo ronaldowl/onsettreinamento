@@ -1,12 +1,12 @@
 {
-	"servername": "Onset Server",
+	"servername": "Treinamento - Onset Server",
 	"servername_short": "Onset Server",
-	"gamemode": "do what you want",
+	"gamemode": "Livre",
 	"website_url": "https://playonset.com",
 	"ipaddress": "127.0.0.1",
 	"port": 7777,
 	"maxplayers": 100,
-	"password": "",
+	"password": "123",
 	"timeout": 15000,
 	"iplimit": 5,
 	"masterlist": false,
@@ -15,11 +15,9 @@
 		"ini-plugin"
 	],
 	"packages": [
-		"packagemanager",
-		"zeus",
-		"default",
-		"freeroam",
-		"sandbox"
+		"packagemanager",		
+		"Treinamento"
+		
 	],
 	"voice": true,
 	"voice_sample_rate": 24000,
