@@ -16,7 +16,8 @@
 	],
 	"packages": [
 		"packagemanager",		
-		"Treinamento"
+		"Treinamento",		
+		"mapeditor"
 		
 	],
 	"voice": true,

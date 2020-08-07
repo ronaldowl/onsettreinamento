@@ -7,3 +7,9 @@ AddCommand("admin01", function(player)
 	SetPlayerLocation(player, -182821.00, -41675.00, 1160.00)
 	AddPlayerChat(player, "Voce foi enviado para loja de ARMAS da cidade nova")
 end)
+
+function destaca(player)	 
+
+	CallRemoteEvent(player, "DestacaArvore", 1)
+end
+AddCommand("destaca", destaca)

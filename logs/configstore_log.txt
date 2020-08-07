@@ -49,3 +49,96 @@
 [2020-07-31 20:07:07] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
 [2020-07-31 20:07:08] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
 [2020-07-31 20:07:09] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-07-31 20:09:28] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-07-31 20:09:30] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 19:03:15] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 19:03:17] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 19:10:05] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 19:10:07] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 19:11:15] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 19:11:17] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 19:12:21] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 19:12:23] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 19:13:54] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 19:13:56] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 19:16:13] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 19:16:15] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+[2020-08-07 19:16:15] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 19:27:40] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 19:27:42] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 19:48:13] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 19:48:14] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+[2020-08-07 19:48:16] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 20:01:39] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 20:01:41] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 20:05:17] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 20:05:18] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 20:07:18] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 20:07:20] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+[2020-08-07 20:07:21] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 20:10:36] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 20:10:38] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+[2020-08-07 20:10:39] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 20:16:21] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 20:16:23] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+[2020-08-07 20:16:24] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 20:17:09] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 20:17:11] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+[2020-08-07 20:17:11] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 20:18:10] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 20:18:12] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+[2020-08-07 20:18:13] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 20:19:28] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 20:19:29] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 20:22:28] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 20:22:30] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+[2020-08-07 20:22:31] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 20:23:24] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 20:23:26] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 20:25:44] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 20:25:46] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+[2020-08-07 20:25:47] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
+
+
+[2020-08-07 20:27:48] Loaded store 'install' from 'D:\GIT\onsettreinamento\config\config.vdf' successfully
+[2020-08-07 20:27:50] Flushed store 'install' to 'D:\GIT\onsettreinamento\config\config.vdf'
